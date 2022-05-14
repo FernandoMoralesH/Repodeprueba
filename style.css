@@ -157,7 +157,8 @@ footer .redes a
     position: relative;
 }
 
-.cuadrado-perfecto.diez
+
+#diez
 {
     left: 100%;
 }
@@ -415,6 +416,15 @@ p
         font-size: 15px;
     }
 
+    #diez
+    {
+        display: none;
+        position: relative;
+/*        position: initial;
+        height: 100%;
+        width: 100%;*/
+    }
+
     .container
     {
         width: 100%;
@@ -486,6 +496,11 @@ p
         width: 50%;
     }
 
+    .columna-mobile-50 .cuadrado-perfecto.diez
+    {
+        width: 50%;
+    }
+
     .empujar-mobile-0
     {
         margin-left: 0;
@@ -517,6 +532,5 @@ p
     #busqueda_avanzada
     {
         padding: 0;
-    }
-
+    }    
 }
