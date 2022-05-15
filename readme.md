@@ -8,10 +8,12 @@
 1. [Creación de Proyecto](#id1)
 2. [Maquetacion del HTML - Con tema: Especies en Peligro de Extinción](#id2)
 
-## Creación de Proyecto<a name="id2"></a>
+## Creación de Proyecto<a name="id1"></a>
 
 1. Equipo: "Hackthon" realizado por https://github.com/ArturoMendozaA, https://github.com/victorsaucedom, https://github.com/DavidRamirez5, https://github.com/UbaldoFMelchor. https://github.com/FernandoMoralesH.
-2. El tema elegido fue: "Especies en Peligro de Extinción"
+2. El tema elegido fue: "Especies en Peligro de Extinción".
+   Si bien el tema es algo muy sonado, es importante seguir informando a la sociedad acerca de las causas y posibles acciones para evitar que las especies sigan
+   extingueindose puesto que todas ellas forman parte de los ecosistemas, las cuales tienen beneficios para el medio ambiente.
  
 
 ## Maquetacion del HTML - Con tema: Especies en Peligro de Extinción (HACK THE OCEAN)<a name="id2"></a>
