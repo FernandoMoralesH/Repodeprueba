@@ -18,7 +18,7 @@
 
 1. Se realizo el bocetaje del wireframe para maquetar como quedaria la pagina Web.
 
-!(https://miro.com/app/live-embed/uXjVO1cpJAs=/?moveToViewport=769,50,1165,2800)
+![WIREFRAME HACH TO OCEAN](https://user-images.githubusercontent.com/99518846/168456387-551b26e0-7b3f-4053-b9b8-6cfe8a1409bc.jpg)
 
 2. Front End: El proyecto fue realizado en archivo html con apoyo de CSS Y Javascript (jQuery).
 
