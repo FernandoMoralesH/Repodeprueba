@@ -23,9 +23,28 @@
 ![WIREFRAME HACH TO OCEAN](https://user-images.githubusercontent.com/99518846/168456387-551b26e0-7b3f-4053-b9b8-6cfe8a1409bc.jpg)
 
 2. Front End: El proyecto fue realizado en archivo html con apoyo de CSS Y Javascript (jQuery).
+      °HTML - Se realiza el esqueleto que sera la estructura de la pagina Web"
+      °CSS - Se aplican el estilo que dara forma al esqueleto dicha pagina Web
+      °Javascript - Se utiliza para dar funcioalidad a la pagina.
+
+![VS CODE](https://user-images.githubusercontent.com/99518846/168456628-bb0936af-2ef5-4a10-800f-ad3af8d08194.png)
+
+3. Pagina Web
 
 
 
+![Screenshot 2022-05-14 at 23-13-46 Hack the Ocean](https://user-images.githubusercontent.com/99518846/168456974-b7a9c2a9-065f-46b4-b6e8-f0bc9ac95272.png)
+
+
+### Diseño de todos los componentes de la app<a name="id8"></a>
+
+```mermaid
+graph TD;
+    data.JSON-.->Reader;
+    Reader-->StudentController;
+    StudentService<-->StudentController;
+    StudentController-->Server-->API
+```
 
 ________________________________________________________________________________________________________________________________________________________
 
