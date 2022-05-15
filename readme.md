@@ -3,9 +3,10 @@
 ## Tabla de Contenidos
 1. [Maquetacion del HTML - Con tema: Especies en Peligro de Extinción](#id1)
 
-## Requerimentos Code Challenge (Semana 4)<a name="id1"></a>
+## Maquetacion del HTML - Con tema: Especies en Peligro de Extinción (HACK THE OCEAN)<a name="id1"></a>
 
-1. 
+1. El
+2. Proyecto realizado por https://github.com/ArturoMendozaA, https://github.com/victorsaucedom, https://github.com/DavidRamirez5, https://github.com/UbaldoFMelchor. https://github.com/FernandoMoralesH, 
 
 
 
