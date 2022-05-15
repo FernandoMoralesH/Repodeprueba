@@ -165,7 +165,7 @@ footer .redes a
 }
 
 
-#diez
+.diez
 {
     left: 100%;
 }
@@ -424,14 +424,6 @@ p
         font-size: 15px;
     }
 
-    #diez
-    {
-        display: none;
-        position: relative;
-/*        position: initial;
-        height: 100%;
-        width: 100%;*/
-    }
 
     .container
     {
@@ -508,7 +500,11 @@ p
 
     .columna-mobile-50 .cuadrado-perfecto.diez
     {
-        width: 50%;
+        width: 100%;
+        object-fit: cover;
+        object-position:right;
+        top: 0;
+        left: 0;
     }
 
     .empujar-mobile-0
