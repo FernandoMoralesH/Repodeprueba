@@ -17,6 +17,9 @@
 ## Maquetacion del HTML - Con tema: Especies en Peligro de Extinción (HACK THE OCEAN)<a name="id2"></a>
 
 1. Se realizo el bocetaje del wireframe para maquetar como quedaria la pagina Web.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO1cpJAs=/?moveToViewport=769,50,1165,2800" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+
 2. Front End: El proyecto fue realizado en archivo html con apoyo de CSS Y Javascript (jQuery).
 
 
